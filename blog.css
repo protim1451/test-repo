@@ -23,7 +23,7 @@ h3{
 }
 .header{
     height: 200px;
-    /* background-image: url(grandma.webp);
+    background-image: url(grandma.webp);
     /* background-repeat: repeat-y; */
-    /* background-size: 200px; */ */
+    background-size: 200px;
 }
