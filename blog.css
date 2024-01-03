@@ -1,0 +1,29 @@
+h3{
+    color: blueviolet;
+    font-size: 30px;
+    text-decoration:line-through;
+    font-family: 'Courier New', Courier, monospace;
+}
+.third{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+.blog{
+    margin: 50px;
+    border: 10px solid;
+    border-color: aquamarine;
+    border-radius: 5px;
+    box-shadow: 10px 10px 15px;
+}
+
+.khaga{
+    border: 2px solid;
+    border-color: blue;
+    /* display: block; */
+}
+.header{
+    height: 200px;
+    background-image: url(grandma.webp);
+    /* background-repeat: repeat-y; */
+    background-size: 200px;
+}

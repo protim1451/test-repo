@@ -1,0 +1,68 @@
+.external{
+    background-color: blueviolet;
+}
+.head{
+    font-size:xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    color: tomato;
+    font-weight: bolder;
+    text-align: center;
+}
+.list{
+    background-color: aqua;
+    border: 5px solid;
+    border-radius: 10px;
+    border-color: brown;
+    /* border-right: none; */
+    margin: 10px;
+    padding: 20px;
+    /* text-align: center; */
+    width: 90%;
+}
+.para{
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    text-align: center;
+}
+#para1{
+    color: tomato;
+    background-color: aqua;
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    border: 5px solid;
+    border-radius: 10px;
+    border-color:blueviolet;
+    margin: 10px;
+    padding: 20px;
+    /* text-align: center; */
+    width: 90%;
+}
+.div1{
+    background-color: greenyellow;
+    border: 5px solid;
+    border-color: bisque;
+    margin: 20px;
+    padding: 30px;
+    text-align: justify;
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.div2{
+    background-color: greenyellow;
+    border: 5px solid;
+    border-color: bisque;
+    margin: 20px;
+    padding: 30px;
+    text-align: justify;
+    font-size: medium;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 10px 10px 15px;
+    background-image: url(cat.webp);
+    height: 150px;
+    background-size: 200px;
+    background-position:center;
+    background-repeat:repeat;
+    
+}
